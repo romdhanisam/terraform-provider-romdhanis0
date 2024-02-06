@@ -1,3 +1,3 @@
-resource "example_server" "my-server-name" {
+resource "romdhanis0_server" "my-first-server-name" {
 	uuid_count = "2"
 }
